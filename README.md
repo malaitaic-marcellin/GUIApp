@@ -45,40 +45,6 @@ You will design, develop, test, and evaluate a **GUI-based software application*
 | `/reflection`  | Reflections using PALS, implications, final evaluation |
 | `/assets`      | Images/icons with attribution if needed                |
 
-AS91906-91907_GUIApp_Template/
-│
-├── 📁 code/
-│   ├── main.py                  ← Main GUI script
-│   ├── logic.py                 ← Backend logic or processing functions
-│   ├── constants.py             ← Global variables (e.g. colours, sizes)
-│   └── modules/                 ← Optional: reusable modules or GUI classes
-│
-├── 📁 planning/
-│   ├── trello-link.txt          ← Paste Trello board URL or Gantt Chart (PDF)
-│   ├── drawio-wireframe.drawio  ← GUI wireframe from draw.io
-│   ├── brief.md                 ← Problem/opportunity description + purpose
-│   └── sprint-journal.md        ← Notes on planning/sprint progress
-│
-├── 📁 testing/
-│   ├── test-cases.md            ← Expected, boundary, invalid case table
-│   ├── trial-notes.md           ← Comparison of techniques or layouts
-│   ├── user-feedback.md         ← Summary of feedback from Google Forms
-│   └── bug-log.md               ← Debugging notes or issue tracking
-│
-├── 📁 reflection/
-│   ├── pals-reflection.md       ← Use PALS format for insight/evaluation
-│   ├── implications.md          ← Covers IP, accessibility, usability, etc.
-│   └── final-evaluation.md      ← Did it meet the need? What next?
-│
-├── 📁 assets/
-│   ├── icons/                   ← Any images/icons used in GUI
-│   ├── sample-data/             ← Optional: test input/output files
-│   └── attribution.txt          ← Attributions for external assets
-│
-├── README.md                    ← Overview, criteria, structure (already done)
-└── LICENSE                      ← (Optional) e.g. MIT
-
-
 ---
 
 ## 🛠️ Tools to Use
